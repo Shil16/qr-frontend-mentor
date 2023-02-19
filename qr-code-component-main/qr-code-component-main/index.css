@@ -1,0 +1,54 @@
+
+body
+{
+    display: flex;
+    
+}
+
+
+#text
+{
+    background-color:hsl(220, 15%, 55%) ;
+    width: 1000px;
+    height: 700px;
+    border-radius: 25px;
+    margin: auto;
+    align-self: center;
+    vertical-align: middle;
+    align-content: center;
+    display: flex;
+
+}
+#box
+{
+    background-color: white;
+    width: 200px;
+    height: 400px;
+    border-radius: 25px;
+    margin: auto;
+    
+}
+
+#code
+{
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    
+}
+#qr
+{
+    border-radius: 25px;
+    align-self: center;
+    margin: auto;
+    display: flex;
+    margin-top: 5px;
+    
+}
+h2
+{
+    text-align:center;
+}
